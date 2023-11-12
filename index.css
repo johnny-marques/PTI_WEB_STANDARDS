@@ -135,6 +135,7 @@ button {
 
     h1 {
         font-size: 28px;
+        text-align: center;
     }
 
     h2 {
@@ -150,6 +151,10 @@ button {
         display: block;
         justify-content:center;
         align-items: center;
+        text-align: center;
+    }
+
+    .sobre p{
         text-align: center;
     }
 
