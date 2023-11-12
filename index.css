@@ -134,7 +134,7 @@ iframe {
     background-color: #414042;
 }
 
-@media screen and (max-width: 768px) {
+@media screen (max-width: 768px) {
 
 
     h1 {
