@@ -154,6 +154,11 @@ button {
         text-align: center;
     }
 
+    iframe {
+        width: 300;
+        height: 225;
+    }
+
     .sobre p{
         text-align: center;
     }
