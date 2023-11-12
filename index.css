@@ -118,6 +118,11 @@ button {
     justify-content:center;
     align-items: center;
     text-align: left;
+
+}
+
+iframe {
+    width: 70%;
 }
 
 .contato {
@@ -154,9 +159,7 @@ button {
         text-align: center;
     }
 
-    iframe {
-        width: 80%;
-    }
+
 
     .sobre p{
         text-align: center;
