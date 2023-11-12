@@ -27,6 +27,9 @@ body {
     padding: 20px;
     border: 1px solid #ccc;
     background-color: #414042;
+}
+
+.produtos p {
     text-align: center;
 }
 
@@ -41,7 +44,7 @@ body {
     flex-direction: column;
     justify-content:center;
     align-items: center;
-    text-align: left;
+    text-align: center;
 }
 
 .contato {
