@@ -44,7 +44,7 @@ body {
     flex-direction: column;
     justify-content:center;
     align-items: center;
-    text-align: center;
+    text-align: left;
 }
 
 .contato {
@@ -86,7 +86,7 @@ img {
 }
 
 ul {
-    list-style-type: armenian;
+    list-style-type:circle;
 }
 
 li {
