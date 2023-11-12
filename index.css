@@ -14,7 +14,25 @@ body {
     background-color: #f0f0f0;
 }
 
-section {
+.sobre {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.produtos {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.vantagens {
     width: 80%;
     max-width: 1200px;
     margin: 20px auto;
