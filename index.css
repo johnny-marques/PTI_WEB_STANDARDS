@@ -134,7 +134,6 @@ iframe {
     background-color: #414042;
 }
 
-/* Estilos para telas menores que 600px */
 @media (max-width: 600px) {
 
 
@@ -158,8 +157,6 @@ iframe {
         align-items: center;
         text-align: center;
     }
-
-
 
     .sobre p{
         text-align: center;
