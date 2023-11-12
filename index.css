@@ -146,6 +146,10 @@ button {
         height: 150px;
     }
 
+    .sobre {
+        display: block;
+    }
+
     input, textarea {
         width: 90%;
     }
