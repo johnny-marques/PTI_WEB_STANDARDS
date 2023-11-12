@@ -158,6 +158,10 @@ iframe {
         text-align: center;
     }
 
+     .sobre, .produtos, .vantagens, .mapa, .contato {
+         width: 95%;
+     }
+    
     .sobre p{
         text-align: center;
     }
