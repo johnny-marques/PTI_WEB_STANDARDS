@@ -1,17 +1,9 @@
-/* Arquivo style.css */
-
-/* Estilos gerais */
-/* {*/
-/*    margin: 0;*/
-/*    padding: 0;*/
-/*    box-sizing: border-box; */
-/*}*/
 
 body {
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: #333;
-    background-color: #0b69a3;
+    background-color: #8DC63F;
 }
 
 .sobre {
@@ -20,7 +12,7 @@ body {
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #ccc;
-    background-color: #fff;
+    background-color: #414042;
 }
 
 .produtos {
@@ -29,7 +21,7 @@ body {
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #ccc;
-    background-color: #fff;
+    background-color: #414042;
 }
 
 .vantagens {
@@ -38,7 +30,7 @@ body {
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #ccc;
-    background-color: #fff;
+    background-color: #414042;
 }
 
 .contato {
@@ -47,7 +39,7 @@ body {
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #ccc;
-    background-color: #fff;
+    background-color: #414042;
 }
 
 h1, h2 {
@@ -57,12 +49,12 @@ h1, h2 {
 
 h1 {
     font-size: 36px;
-    color: #0099ff;
+    color: #8DC63F;
 }
 
 h2 {
     font-size: 24px;
-    color: #0066cc;
+    color: #8DC63F;
 }
 
 p {
