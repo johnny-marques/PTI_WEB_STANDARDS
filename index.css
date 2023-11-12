@@ -29,10 +29,6 @@ body {
     background-color: #414042;
 }
 
-.produtos p {
-    text-align: center;
-}
-
 .vantagens {
     width: 80%;
     max-width: 1200px;
@@ -56,10 +52,6 @@ body {
     background-color: #414042;
 }
 
-.contato p {
-    text-align:center;
-}
-
 h1 {
     font-size: 36px;
     color: #8DC63F;
@@ -75,7 +67,7 @@ h2 {
 }
 
 p {
-    text-align: justify;
+    text-align: center;
     line-height: 1.5;
 }
 
@@ -121,9 +113,7 @@ button {
 
 /* Estilos para telas menores que 600px */
 @media (max-width: 600px) {
-    section {
-        width: 90%;
-    }
+
 
     h1 {
         font-size: 28px;
