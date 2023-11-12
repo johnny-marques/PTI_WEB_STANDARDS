@@ -1,7 +1,6 @@
 
 body {
     font-family: Arial, sans-serif;
-    font-size: 16px;
     color: #ffffff;
     background-color: #8DC63F;
 }
@@ -21,6 +20,7 @@ h2 {
 }
 
 p {
+    font-size: 16px;
     text-align: center;
     line-height: 1.5;
 }
@@ -134,7 +134,7 @@ iframe {
     background-color: #414042;
 }
 
-@media (max-width:1200px) {
+@media (max-width:1100px) {
 
 
     h1 {
