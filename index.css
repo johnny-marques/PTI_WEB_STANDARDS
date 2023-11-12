@@ -41,7 +41,6 @@ body {
     flex-direction: column;
     justify-content:center;
     align-items: center;
-    gap: 10px;
     text-align: left;
 }
 
